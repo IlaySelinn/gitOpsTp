@@ -3,6 +3,8 @@
 Order directly from local farmers, pick up your basket at the farm.
 Training project for the **GitOps and CI/CD** module (Les Producteurs du Coin and Lambda Studio are fictional).
 
+test 
+
 ## Before the course
 
 Do this at home **before the first day**, on your own computer (Linux, macOS or Windows). It takes about 30 minutes.
